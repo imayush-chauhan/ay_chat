@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142493531556",
+    "project_id": "shopping-f6d4f",
+    "storage_bucket": "shopping-f6d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142493531556:android:077774656881b6f8bf5531",
+        "android_client_info": {
+          "package_name": "com.blackhole.ay_shopping.ay_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142493531556-jv2055kjchitf2tur1eupiverepsdi9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzpkdQRzKMuNIjzH0l2ovTy8zThZcpkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142493531556-jv2055kjchitf2tur1eupiverepsdi9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
