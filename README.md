@@ -1,6 +1,6 @@
 # ay_chat
 
-Shopping app
+chat app
 
 ## Getting Started
 
