@@ -1,4 +1,4 @@
-# ay_shopping
+# ay_chat
 
 Shopping app
 
